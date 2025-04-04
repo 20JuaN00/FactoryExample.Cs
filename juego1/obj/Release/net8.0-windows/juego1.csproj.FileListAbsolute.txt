@@ -1,0 +1,17 @@
+C:\Users\Juan Gómez\source\repos\juego1\juego1\bin\Release\net8.0-windows\juego1.exe
+C:\Users\Juan Gómez\source\repos\juego1\juego1\bin\Release\net8.0-windows\juego1.deps.json
+C:\Users\Juan Gómez\source\repos\juego1\juego1\bin\Release\net8.0-windows\juego1.runtimeconfig.json
+C:\Users\Juan Gómez\source\repos\juego1\juego1\bin\Release\net8.0-windows\juego1.dll
+C:\Users\Juan Gómez\source\repos\juego1\juego1\bin\Release\net8.0-windows\juego1.pdb
+C:\Users\Juan Gómez\source\repos\juego1\juego1\obj\Release\net8.0-windows\juego1.Form1.resources
+C:\Users\Juan Gómez\source\repos\juego1\juego1\obj\Release\net8.0-windows\juego1.Properties.Resources.resources
+C:\Users\Juan Gómez\source\repos\juego1\juego1\obj\Release\net8.0-windows\juego1.csproj.GenerateResource.cache
+C:\Users\Juan Gómez\source\repos\juego1\juego1\obj\Release\net8.0-windows\juego1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Gómez\source\repos\juego1\juego1\obj\Release\net8.0-windows\juego1.AssemblyInfoInputs.cache
+C:\Users\Juan Gómez\source\repos\juego1\juego1\obj\Release\net8.0-windows\juego1.AssemblyInfo.cs
+C:\Users\Juan Gómez\source\repos\juego1\juego1\obj\Release\net8.0-windows\juego1.csproj.CoreCompileInputs.cache
+C:\Users\Juan Gómez\source\repos\juego1\juego1\obj\Release\net8.0-windows\juego1.dll
+C:\Users\Juan Gómez\source\repos\juego1\juego1\obj\Release\net8.0-windows\refint\juego1.dll
+C:\Users\Juan Gómez\source\repos\juego1\juego1\obj\Release\net8.0-windows\juego1.pdb
+C:\Users\Juan Gómez\source\repos\juego1\juego1\obj\Release\net8.0-windows\juego1.genruntimeconfig.cache
+C:\Users\Juan Gómez\source\repos\juego1\juego1\obj\Release\net8.0-windows\ref\juego1.dll
