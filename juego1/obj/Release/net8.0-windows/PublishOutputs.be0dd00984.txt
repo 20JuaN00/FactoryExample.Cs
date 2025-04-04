@@ -1,0 +1,5 @@
+C:\Users\Juan Gómez\Documents\Universidad\juego1.exe
+C:\Users\Juan Gómez\Documents\Universidad\juego1.dll
+C:\Users\Juan Gómez\Documents\Universidad\juego1.deps.json
+C:\Users\Juan Gómez\Documents\Universidad\juego1.runtimeconfig.json
+C:\Users\Juan Gómez\Documents\Universidad\juego1.pdb
